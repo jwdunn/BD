@@ -14,11 +14,11 @@ public final class R {
         public static final int icon=0x7f020000;
     }
     public static final class id {
-        public static final int captureimage=0x7f050009;
         public static final int card5=0x7f05000a;
         public static final int check=0x7f050003;
         public static final int get_call=0x7f050008;
-        public static final int get_music=0x7f050007;
+        public static final int get_directions=0x7f050007;
+        public static final int get_image=0x7f050009;
         public static final int imagecaptured=0x7f05000b;
         public static final int keypad=0x7f050006;
         public static final int linearLayout1=0x7f050005;

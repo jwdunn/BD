@@ -41,7 +41,7 @@
         <TableRow >
 
             <Button
-                android:id="@+id/get_music"
+                android:id="@+id/get_directions"
                 android:text="@string/get_directions" >
             </Button>
 
@@ -54,7 +54,7 @@
         <TableRow >
 
             <Button
-                android:id="@+id/captureimage"
+                android:id="@+id/get_image"
                 android:text="@string/scan_id" >
             </Button>
 
